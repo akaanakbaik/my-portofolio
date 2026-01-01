@@ -16,7 +16,7 @@ export function Footer() {
           {/* Copyright */}
           <div className="text-center md:text-left mb-4 md:mb-0">
             <p className="text-neutral-600 dark:text-neutral-400">
-              © 2025 Aka. Dibuat dengan ❤️ dan code
+              © 2026 Aka. Dibuat dengan ❤️ dan code
             </p>
           </div>
 
